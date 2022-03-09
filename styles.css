@@ -1,4 +1,4 @@
-html, body, main, section, p, h1, h3, ul, li {
+html, body, main, section, p, h1, h2, ul, li {
     margin: 0;
     padding: 0;
 }
@@ -82,8 +82,9 @@ button {
     width: 100%;
 }
 
-h3 {
+h2 {
     color: hsl(204, 43%, 93%);
+    font-size: 19px;
     margin-bottom: 21px;
 }
 
