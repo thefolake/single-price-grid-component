@@ -5,7 +5,7 @@ html, body, main, section, p, h1, h2, ul, li {
 
 body {
     align-items: center;
-    background: hsl(218, 22%, 67%);
+    background: #e6eff5;
     display: flex;
     font-family: 'Karla', sans-serif;
     justify-content: center;
